@@ -1,0 +1,7 @@
+maubot: 0.1.0
+id: de.asklios.logout_helper
+version: 0.1.0
+
+modules:
+- logout
+main_class: Logout
